@@ -1,9 +1,15 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Nagpur University, India
+  dates: 2000- 2004
+  qualification: Bacheolor Computer Applications
   quote: >
-    Short institution or course description (optional)
+    College degree in commerce with C Language and HTML
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+
+
+name: Charles University, CZ
+dates: 2016-2017
+qualification: B1 CZ Language
+quote: >
+  An intensive Czech Language programme administered by [UJOP](http://ujop.cuni.cz/en/)
