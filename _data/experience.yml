@@ -1,10 +1,37 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: ELC Group s.r.o
+  link: https://elc-group.com/
+  job_title: Business Development Executive
+  dates: Feb 2018 - Sep 2019
   quote: >
-   Short description of the company (optional)
+   A pharmaceutical solution provider.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+     As part of Business Development my core responsibilties were
+     <ul>
+     <li>New account development</li>
+     <li>Identification of new services that can help increase market share</li>
+     <li>Cross Platform negotiations to deliver project on agreed timelines</li>
+     <li>Frequent travel for client servicing</li>
+     </ul>
+
+# Experience template
+- layout: left
+  company: ITC Ltd
+  link: https://www.itcportal.com/
+  jobs:
+   - title: Area Manager Merchandising & HoReCa
+     dates: June 2014- June 2016
+   - title: Area Manager Key Accounts
+     dates: June 2012- May 2014
+   - title: Area Executive HoReCa
+     dates: April 2010- May 2012
+   - title: Area Executive Key Accounts
+     dates: September 2008- March 2010
+     quote: >
+     ITC is one of India's foremost private sector companies with a market capitalisation of US $ 50 billion and Gross Sales Value of US $ 10.8 billion with presence in FMCG, Hotels, Packaging, Paperboards & Specialty Papers, Agri & IT Businesses.
+   
+  description: | # this will include new lines to allow paragraphs
+    Being part of the Trade & Marketing vertical of ITC Ltd gave me a unique opportunity to learn from what was at the time considered the leading Marketing Miracle of ITC's policy to start <em> Diversification.</em>
+
+     
