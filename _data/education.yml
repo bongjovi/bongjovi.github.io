@@ -3,3 +3,9 @@
   name: Nagpur University
   dates: 2000-2004
   qualification: Bachelors In Computer Application
+
+# Education Template
+- layout: left
+  name: Charles University
+  dates: 2016-2017
+  qualification: B 1 Czech Language proficiency.
