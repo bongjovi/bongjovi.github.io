@@ -16,3 +16,12 @@
     Information for prospective students in Prague.
   description: | # this will include new lines to allow paragraphs
     This project is an experiment on building a social media brand. Powered from a static website, this future influencer has a dedicated social media strategy. Follow it to know more...
+# Project template
+- layout: top-middle
+  name: Clementine
+  link: www.youtube.com
+  github: Github Page
+  quote: >
+    Team building activity undertaken by my at my erstwhile employer.
+  description: | # this will include new lines to allow paragraphs
+    My colleagues and I got together to film a skit poking fun at our daily work routines. The script, camera work, editing was done by me. Having said that the entire project would not have been possible without the help of my colleagues.
