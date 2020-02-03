@@ -8,6 +8,11 @@
    A pharmaceutical solution provider.
   description: | # this will include new lines to allow paragraphs
      As part of Business Development my core responsibilties were
+     <ul>
+     <li>New account development</li>
+     <li>Identification of new services to increase client penetration</li>
+     <li>Cross platform ngotiation to achieve timely results</li>
+     </ul>
      
 # Experience template
 - layout: left
