@@ -1,9 +1,18 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Places In Prague
+  link: www.placesinprague.com
+  github: Github Page
   quote: >
-    Short overview of the project (optional)
+    Fun Useful Information about Prague
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    [Placesinprague](https://www.placesinprague.com) came into being in 2016, when I came to Prague to study. While there were and still are a few million sites about Prague, I want share the path less traveled.
+# Project template
+- layout: top-middle
+  name: Student Prague
+  link: www.studentprague.tk
+  github: Github Page
+  quote: >
+    Information for prospective students in Prague.
+  description: | # this will include new lines to allow paragraphs
+  This project is an experiment on building a social media brand. Powered from a static website, this future influencer has a dedicated social media strategy. Follow it to know more...
