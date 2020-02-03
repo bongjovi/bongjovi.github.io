@@ -29,7 +29,7 @@ github_username:  dailyblog99
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: resume/image/IMG_5602.png
+about_profile_image: resume/image/favico.png
 about_content: | # this will include new lines to allow paragraphs
   >  “All that is gold does not glitter,
       not all those who wander are lost"
@@ -38,11 +38,10 @@ about_content: | # this will include new lines to allow paragraphs
   Ten cities, three countries and two continents later one truly begins to comprehend the benefits of traveling. 
   
   Hi ! I am Atif and I would like to apply for suitable position available with you. I am interested in increasing my knowledge of web development and creative writing. I strongly believe that brands do not make people, people make brands. Some of the skills that I can bring to the team are 
-   <mark>Probloem Solving</mark>,
+   <mark>Problem Solving</mark>,
    <mark>Analytical Thinking</mark>,
    <mark>Relationship Management</mark>,
-   <mark>Communication Skills</mark>,
-   <mark>Extra Mile</mark>,
+   <mark>Marketing</mark>,<mark>People Management</mark>
   
 
 
