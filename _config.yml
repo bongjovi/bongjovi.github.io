@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Atif Farooqui
-title: Enthusiastic Job Applicant
+title: In search of new opportunities
 email: digitalprague@gmail.com
 phone: 777-988-681
 website: www.studentprague.tk
@@ -31,7 +31,11 @@ github_username:  dailyblog99
 # about_title: About Me (Use this to override about section title)
 about_profile_image: resume/image/IMG_5602.png
 about_content: | # this will include new lines to allow paragraphs
-  Having lived in different cities, countries and cultures over the years, it has afforded me a unique perspective towards creativity and towards life. While the internet is busy dirupting all walks of life it is important for us to create a raft of knowledge, one which will take us to safety.
+  >  “All that is gold does not glitter,
+  >   Not all those who wander are lost"
+  >   -J.R.R Tolkien
+  
+  Ten cities, three countries and two continents later one truly begins to comprehend the benefits of traveling. Hi ! I am Atif and I would like to apply for a position suitable for me. I am interested in increasing my knowledge of web development and creative writing. I strongly believe that brands do not make people, people make brands.
 
 
 
@@ -52,11 +56,10 @@ more_content: | # this will include new lines to allow paragraphs
   - Hindi
   - Czech
   - Italian
-    - A1
   - German
-    - Just Began
+    
   
-  Other than these things I enjoy spending time with my family and our dog. 
+  Other than these things I enjoy spending time with my family and our dog. I am currently based in Prague and I am open to relocation to cities only in Europe as on date.
 # Footer
 footer_show_references: true
 
