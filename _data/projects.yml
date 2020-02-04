@@ -9,15 +9,6 @@
     [Placesinprague](https://www.placesinprague.com) came into being in 2016, when I came to Prague to study. While there were and still are a few million sites about Prague, I want share the path less traveled.
 # Project template
 - layout: top-middle
-  name: Student Prague
-  link: www.studentprague.tk
-  github: Github Page
-  quote: >
-    Information for prospective students in Prague.
-  description: | # this will include new lines to allow paragraphs
-    This project is an experiment on building a social media brand. Powered from a static website, this future influencer has a dedicated social media strategy. Follow it to know more...
-# Project template
-- layout: top-middle
   name: Clementine
   link: www.youtube.com
   github: Github Page
@@ -25,3 +16,12 @@
     Team building activity undertaken by my colleagues and I at my erstwhile employer.
   description: | # this will include new lines to allow paragraphs
     My colleagues and I got together to film a skit poking fun at our daily work routines. The script, sound, camera and editing was done by me. Having said that the entire project would not have been possible without the help of my colleagues.
+# Project template
+- layout: top-middle
+  name: All India Radio
+  link: https://soundcloud.com/bongjovi/youth-time-diwali-special-11
+  github: Github Page
+  quote: >
+    Youth Time Diwali Special, All India Radio - Chandigarh, India
+  description: | # this will include new lines to allow paragraphs
+    My curiosity led to an oppurunity to co-host and co-script a Diwali Special for All India Radio, Chandigarh. 
