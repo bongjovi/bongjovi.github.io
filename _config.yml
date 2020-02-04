@@ -29,7 +29,7 @@ github_username:  dailyblog99
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: resume/image/favico.png
+about_profile_image: image/favico.png
 about_content: | # this will include new lines to allow paragraphs
   >  “All that is gold does not glitter,
       not all those who wander are lost"
