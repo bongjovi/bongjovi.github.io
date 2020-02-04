@@ -31,8 +31,7 @@ github_username:  dailyblog99
 # about_title: About Me (Use this to override about section title)
 about_profile_image: image/favico.png
 about_content: | # this will include new lines to allow paragraphs
-  >  “All that is gold does not glitter,
-      not all those who wander are lost"
+  >  “not all those who wander are lost"
       -J.R.R Tolkien
   
   Ten cities, three countries and two continents later one truly begins to comprehend the benefits of traveling. 
@@ -58,11 +57,11 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   While I am not busy learning new things I like to read and watch movies and write stories that excite me. From all the new things that one can learn, I find *languages* really exciting. Here are some of the languages that I try to speak:
-  - English - Proficient
-  - Hindi - Proficient
-  - Czech - Intermediate
-  - Italian - Beginner 
-  - German - Beginner
+  - English   - Advanced
+  - Hindi     - Advanced
+  - Czech     - Intermediate
+  - Italian   - Beginner 
+  - German    - Beginner
     
   
   Other than these things I enjoy spending time with my family and our dog. I am currently based in Prague and I am open to relocation to cities in Europe as on date.
