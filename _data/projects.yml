@@ -6,16 +6,16 @@
   quote: >
     Fun Useful Information about Prague
   description: | # this will include new lines to allow paragraphs
-    [Placesinprague](https://www.placesinprague.com) came into being in 2016, when I came to Prague to study. While there were and still are a few million sites about Prague, I want share the path less traveled.
+    Built with [Jekyll](https://github.com/jekyll/jekyll) using [Lanyon](https://github.com/poole/lanyon) and hosted on [Git Hub](https://github.com/), [Places In Prague](https://placesinprague.com) is a digital magazine in its nascent form.
 # Project template
 - layout: top-middle
   name: Clementine
   link: https://youtu.be/2iQWtWws8cw
   github: Github Page
   quote: >
-    Team building activity undertaken by my colleagues and I at my erstwhile employer.
+    Team building activity executed by me at my erstwhile employer.
   description: | # this will include new lines to allow paragraphs
-    My colleagues and I got together to film a skit poking fun at our daily work routines. The script, sound, camera and editing was done by me. Having said that the entire project would not have been possible without the help of my colleagues.
+    My colleagues and I got together to film a skit poking fun at our daily work routines.The entire project would not have been possible without the help of my colleagues. The script, sound, camera and editing was done by me.
 # Project template
 - layout: top-middle
   name: All India Radio
@@ -24,4 +24,4 @@
   quote: >
     Youth Time Diwali Special, All India Radio - Chandigarh, India
   description: | # this will include new lines to allow paragraphs
-    My curiosity led to an oppurunity to co-host and co-script a Diwali Special for All India Radio, Chandigarh. 
+    Diwali is an annual festival in India that is celebrated across the country. Celebrations almost always involve firworks. The aim of the programme was to educate the youth on the pollution and harm caused by the fireworks. My curiosity led to an oppurunity to co-host and co-script a Diwali Special for All India Radio, Chandigarh.
