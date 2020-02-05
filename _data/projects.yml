@@ -6,7 +6,7 @@
   quote: >
     Fun Useful Information about Prague
   description: | # this will include new lines to allow paragraphs
-    Built with [Jekyll](https://github.com/jekyll/jekyll) using [Lanyon](https://github.com/poole/lanyon) and hosted on [Git Hub](https://github.com/), [Places In Prague](https://placesinprague.com) is a digital magazine in its nascent form.
+    [Places In Prague](https://placesinprague.com) is a digital magazine in its nascent form. It was born out of my own love for exploring hidden nooks and corners of a city. The site aims to show people places in prague that are not frequently visited by tourists. Built with [Jekyll](https://github.com/jekyll/jekyll) using [Lanyon](https://github.com/poole/lanyon) and hosted on [Git Hub](https://github.com/).
 # Project template
 - layout: top-middle
   name: Clementine
