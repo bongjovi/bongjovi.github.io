@@ -3,9 +3,13 @@
   name: Charles University
   dates: 2016-2017
   qualification: B 1 Czech Language proficiency.
+  description: | # this will include new lines to allow paragraphs
+    An intensive course year long course. Part of the course was also regular seminars educating the student on Czech Culture.
 
 # Education Template
 - layout: left
   name: Nagpur University
   dates: 2000-2004
   qualification: Bachelors In Computer Application
+  description: | # this will include new lines to allow paragraphs
+    A degree course imparting the basix needed in commerce and in computer applications. From a commercial perspective management accounts and economics were taught. From a technical point of view for backend C was taught and for front end it was HTML.
