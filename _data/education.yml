@@ -4,7 +4,7 @@
   dates: 2016-2017
   qualification: B 1 Czech Language proficiency.
   description: | # this will include new lines to allow paragraphs
-    An intensive course year long course. Part of the course was also regular seminars educating the student on Czech Culture.
+    An intensive course year long course. Part of the course were also regular seminars educating the students on Czech Culture.
 
 # Education Template
 - layout: left
@@ -12,4 +12,4 @@
   dates: 2000-2004
   qualification: Bachelors In Computer Application
   description: | # this will include new lines to allow paragraphs
-    A degree course imparting the basix needed in commerce and in computer applications. From a commercial perspective management accounts and economics were taught. From a technical point of view for backend C was taught and for front end it was HTML.
+    A degree course imparting the basic needs in commerce and in computer applications. From a commercial perspective<mark> Management Accounting</mark> and <mark>Economics</mark> were taught. From a technical point of view, for backend <mark>C Language </mark> was taught and for front end it was <mark>HTML.</mark>
