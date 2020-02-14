@@ -4,9 +4,9 @@
   link: www.placesinprague.com
   github: Github Page
   quote: >
-    Fun Useful Information about Prague
+    the Where to the What
   description: | # this will include new lines to allow paragraphs
-    [Places In Prague](https://placesinprague.com) is a digital magazine in its nascent form. It was born out of my own love for exploring hidden nooks and corners of a city. The site aims to show people places in prague that are not frequently visited by tourists. Built with [Jekyll](https://github.com/jekyll/jekyll) using [Lanyon](https://github.com/poole/lanyon) and hosted on [Git Hub](https://github.com/).
+    Fun and useful information about places in Prague. The blog also gave me an opportunity to revitst my web development skills. The site is hosted on [Github](https://github.com) and the theme used is [Clean Blog Jekyll.](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 # Project template
 - layout: top-middle
   name: Clementine
@@ -24,4 +24,4 @@
   quote: >
     Youth Time Diwali Special, All India Radio - Chandigarh, India
   description: | # this will include new lines to allow paragraphs
-    Diwali is an annual festival in India that is celebrated across the country. Celebrations almost always involve firworks. The aim of the programme was to educate the youth on the pollution and harm caused by the fireworks. My curiosity led to an oppurunity to co-host and co-script a Diwali Special for All India Radio, Chandigarh.
+    Diwali is an annual festival in India that is celebrated across the country. Celebrations almost always involve fireworks. The aim of the programme was to educate the youth on the pollution and harm caused by the fireworks. My curiosity led to an oppurunity to co-host and co-script a Diwali Special for All India Radio, Chandigarh.
