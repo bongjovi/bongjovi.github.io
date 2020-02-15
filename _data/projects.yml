@@ -2,7 +2,6 @@
 - layout: top-middle
   name: Places In Prague
   link: www.placesinprague.com
-  github: Github Page
   quote: >
     the Where to the What
   description: | # this will include new lines to allow paragraphs
@@ -11,7 +10,6 @@
 - layout: top-middle
   name: Clementine
   link: https://youtu.be/2iQWtWws8cw
-  github: Github Page
   quote: >
     Team building activity executed by me at my erstwhile employer.
   description: | # this will include new lines to allow paragraphs
@@ -20,7 +18,6 @@
 - layout: top-middle
   name: All India Radio
   link: https://soundcloud.com/bongjovi/youth-time-diwali-special-11
-  github: Github Page
   quote: >
     Youth Time Diwali Special, All India Radio - Chandigarh, India
   description: | # this will include new lines to allow paragraphs
