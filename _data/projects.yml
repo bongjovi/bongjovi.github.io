@@ -5,7 +5,7 @@
   quote: >
     the Where to the What
   description: | # this will include new lines to allow paragraphs
-    Fun and useful information about places in Prague. The blog also gave me an opportunity to revitst my web development skills. The site is hosted on [Github](https://github.com) and the theme used is [Clean Blog Jekyll.](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
+    Fun and useful information about places in Prague. The blog also gave me an opportunity to revisit my web development skills. The site is hosted on [Github](https://github.com) and the theme used is [Clean Blog Jekyll.](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll)
 # Project template
 - layout: top-middle
   name: Clementine
