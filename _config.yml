@@ -69,6 +69,8 @@ more_content: | # this will include new lines to allow paragraphs
     
   
   Other than these things I enjoy spending time with my family and our dog.
+  
+  <em>Resume Theme Credit : [Sproogen](https://github.com/sproogen/modern-resume-theme)</em>
 # Footer
 footer_show_references: true
 
