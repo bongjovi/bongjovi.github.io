@@ -4,7 +4,7 @@
   dates: 2016-2017
   qualification: B 1 Czech Language proficiency.
   description: | # this will include new lines to allow paragraphs
-    An intensive course year long course. Part of the course were also regular seminars educating the students on Czech Culture.
+    An intensive year long course based on CEFR requirements. Part of the course were also regular seminars educating the students on Czech Culture.
 
 # Education Template
 - layout: left
@@ -12,7 +12,7 @@
   dates: 2000-2004
   qualification: Bachelors In Computer Application
   description: | # this will include new lines to allow paragraphs
-    A degree course covering ground concepts in Commerce and in Computer Applications. From a commercial perspective<mark> Management Accounting</mark> and <mark>Economics</mark> were taught. From a technical point of view, for backend  <mark>C Language </mark> was taught and for front end it was <mark>HTML.</mark>
+    A degree course covering ground concepts in Commerce and in Computer Applications. From a commercial perspective<mark> Management Accounting</mark> and <mark>Economics</mark> were taught. From a technical point of view, for backend   <mark> C Language </mark> was taught and for front end it was <mark>HTML.</mark>
 
 # Education Template
 - layout: left
@@ -20,7 +20,7 @@
   dates: 1998-2000
   qualification: High School in Science
   description: | # this will include new lines to allow paragraphs
-    Curriculum related to the field of science was covered over a course of two years.
+    Curriculum related to the field of science was covered over two years.
 
 # Education Template
 - layout: left
