@@ -16,6 +16,14 @@
     My colleagues and I got together to film a skit poking fun at our daily work routines.The entire project would not have been possible without the help of my colleagues. The script, sound, camera and editing was done by me.
 # Project template
 - layout: top-middle
+  name: Mono Prague 
+  instagram: https://www.instagram.com/monoprague/
+  quote: >
+    Black & White Photo Channel, 365 photo challenge.
+  description: | # this will include new lines to allow paragraphs
+    My take on Prague in monochrome.   
+# Project template
+- layout: top-middle
   name: All India Radio
   link: https://soundcloud.com/bongjovi/youth-time-diwali-special-11
   quote: >
